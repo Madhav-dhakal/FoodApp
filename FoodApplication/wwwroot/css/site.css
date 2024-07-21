@@ -39,3 +39,23 @@ header{
 .dishCard{
     height:250px;
 }
+.fa-instagram{
+    color:#bc2a8d;
+}
+.fa-whatsapp{
+    color:#128C7E;
+}
+.fa-facebook {
+    color: #1877F2;
+}
+.fa-envelope {
+    color: #08851b;
+}
+
+.recipe-item:hover{
+    background-color:#0d243d;
+    border-radius:10px;
+}
+.recipe-item:hover a{
+    color:white !important;
+}

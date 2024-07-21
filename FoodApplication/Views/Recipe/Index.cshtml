@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Recipe";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            @Html.Partial("_SearchBar");
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-3">
+            <div class="shadow rounded">
+                <div class="border-bottom border-3 p-2">
+                    <h4 class="text-pink text-center fst-italic">Recipes</h4>
+                    @Html.Partial("_SideMenu");
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
