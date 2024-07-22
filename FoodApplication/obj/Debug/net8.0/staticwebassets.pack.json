@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\FoodApplication.bundle.scp.css"
     },
     {
+      "Id": "H:\\.net\\FoodApplication\\FoodApplication\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
       "Id": "H:\\.net\\FoodApplication\\FoodApplication\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -31,6 +35,10 @@
     {
       "Id": "H:\\.net\\FoodApplication\\FoodApplication\\wwwroot\\images\\carousel\\pizza.jpg",
       "PackagePath": "staticwebassets\\images\\carousel\\pizza.jpg"
+    },
+    {
+      "Id": "H:\\.net\\FoodApplication\\FoodApplication\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
     },
     {
       "Id": "H:\\.net\\FoodApplication\\FoodApplication\\wwwroot\\js\\site.js",

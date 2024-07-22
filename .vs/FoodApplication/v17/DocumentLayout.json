@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "H:\\.net\\FoodApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EDB9C345-9B3A-4C43-B4EC-D1CA3A3550FE}|FoodApplication\\FoodApplication.csproj|h:\\.net\\foodapplication\\foodapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EDB9C345-9B3A-4C43-B4EC-D1CA3A3550FE}|FoodApplication\\FoodApplication.csproj|solutionrelative:foodapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EDB9C345-9B3A-4C43-B4EC-D1CA3A3550FE}|FoodApplication\\FoodApplication.csproj|h:\\.net\\foodapplication\\foodapplication\\views\\recipe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EDB9C345-9B3A-4C43-B4EC-D1CA3A3550FE}|FoodApplication\\FoodApplication.csproj|solutionrelative:foodapplication\\views\\recipe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB9C345-9B3A-4C43-B4EC-D1CA3A3550FE}|FoodApplication\\FoodApplication.csproj|h:\\.net\\foodapplication\\foodapplication\\views\\recipe\\_recipecard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDB9C345-9B3A-4C43-B4EC-D1CA3A3550FE}|FoodApplication\\FoodApplication.csproj|solutionrelative:foodapplication\\views\\recipe\\_recipecard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB9C345-9B3A-4C43-B4EC-D1CA3A3550FE}|FoodApplication\\FoodApplication.csproj|h:\\.net\\foodapplication\\foodapplication\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB9C345-9B3A-4C43-B4EC-D1CA3A3550FE}|FoodApplication\\FoodApplication.csproj|solutionrelative:foodapplication\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDB9C345-9B3A-4C43-B4EC-D1CA3A3550FE}|FoodApplication\\FoodApplication.csproj|h:\\.net\\foodapplication\\foodapplication\\views\\recipe\\_sidemenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EDB9C345-9B3A-4C43-B4EC-D1CA3A3550FE}|FoodApplication\\FoodApplication.csproj|solutionrelative:foodapplication\\views\\recipe\\_sidemenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB9C345-9B3A-4C43-B4EC-D1CA3A3550FE}|FoodApplication\\FoodApplication.csproj|h:\\.net\\foodapplication\\foodapplication\\views\\recipe\\_searchbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EDB9C345-9B3A-4C43-B4EC-D1CA3A3550FE}|FoodApplication\\FoodApplication.csproj|solutionrelative:foodapplication\\views\\recipe\\_searchbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB9C345-9B3A-4C43-B4EC-D1CA3A3550FE}|FoodApplication\\FoodApplication.csproj|h:\\.net\\foodapplication\\foodapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{EDB9C345-9B3A-4C43-B4EC-D1CA3A3550FE}|FoodApplication\\FoodApplication.csproj|solutionrelative:foodapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{EDB9C345-9B3A-4C43-B4EC-D1CA3A3550FE}|FoodApplication\\FoodApplication.csproj|h:\\.net\\foodapplication\\foodapplication\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EDB9C345-9B3A-4C43-B4EC-D1CA3A3550FE}|FoodApplication\\FoodApplication.csproj|solutionrelative:foodapplication\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,52 +54,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "site.css",
               "DocumentMoniker": "H:\\.net\\FoodApplication\\FoodApplication\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "FoodApplication\\wwwroot\\css\\site.css",
               "ToolTip": "H:\\.net\\FoodApplication\\FoodApplication\\wwwroot\\css\\site.css",
               "RelativeToolTip": "FoodApplication\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAADEAAAAAAAAAAAAAADsAAAAbAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEAAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-21T09:48:12.912Z",
+              "WhenOpened": "2024-07-22T09:13:52.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_SearchBar.cshtml",
-              "DocumentMoniker": "H:\\.net\\FoodApplication\\FoodApplication\\Views\\Recipe\\_SearchBar.cshtml",
-              "RelativeDocumentMoniker": "FoodApplication\\Views\\Recipe\\_SearchBar.cshtml",
-              "ToolTip": "H:\\.net\\FoodApplication\\FoodApplication\\Views\\Recipe\\_SearchBar.cshtml",
-              "RelativeToolTip": "FoodApplication\\Views\\Recipe\\_SearchBar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T07:05:05.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "_SideMenu.cshtml",
               "DocumentMoniker": "H:\\.net\\FoodApplication\\FoodApplication\\Views\\Recipe\\_SideMenu.cshtml",
               "RelativeDocumentMoniker": "FoodApplication\\Views\\Recipe\\_SideMenu.cshtml",
               "ToolTip": "H:\\.net\\FoodApplication\\FoodApplication\\Views\\Recipe\\_SideMenu.cshtml",
               "RelativeToolTip": "FoodApplication\\Views\\Recipe\\_SideMenu.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T08:08:48.308Z",
+              "WhenOpened": "2024-07-22T09:04:29.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "RecipeController.cs",
+              "DocumentMoniker": "H:\\.net\\FoodApplication\\FoodApplication\\Controllers\\RecipeController.cs",
+              "RelativeDocumentMoniker": "FoodApplication\\Controllers\\RecipeController.cs",
+              "ToolTip": "H:\\.net\\FoodApplication\\FoodApplication\\Controllers\\RecipeController.cs",
+              "RelativeToolTip": "FoodApplication\\Controllers\\RecipeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:24:08.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_RecipeCard.cshtml",
+              "DocumentMoniker": "H:\\.net\\FoodApplication\\FoodApplication\\Views\\Recipe\\_RecipeCard.cshtml",
+              "RelativeDocumentMoniker": "FoodApplication\\Views\\Recipe\\_RecipeCard.cshtml",
+              "ToolTip": "H:\\.net\\FoodApplication\\FoodApplication\\Views\\Recipe\\_RecipeCard.cshtml",
+              "RelativeToolTip": "FoodApplication\\Views\\Recipe\\_RecipeCard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T07:54:14.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.js",
+              "DocumentMoniker": "H:\\.net\\FoodApplication\\FoodApplication\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "FoodApplication\\wwwroot\\js\\site.js",
+              "ToolTip": "H:\\.net\\FoodApplication\\FoodApplication\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "FoodApplication\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-22T06:10:57.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "H:\\.net\\FoodApplication\\FoodApplication\\Views\\Recipe\\Index.cshtml",
               "RelativeDocumentMoniker": "FoodApplication\\Views\\Recipe\\Index.cshtml",
               "ToolTip": "H:\\.net\\FoodApplication\\FoodApplication\\Views\\Recipe\\Index.cshtml",
               "RelativeToolTip": "FoodApplication\\Views\\Recipe\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-21T06:49:07.361Z",
               "EditorCaption": ""

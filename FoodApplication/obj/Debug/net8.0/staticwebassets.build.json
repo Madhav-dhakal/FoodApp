@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "khS5BAOYjpTc2+Net6TjxtnYsSU03tJ7obWfu4MeHsE=",
+  "Hash": "nv9wzmUcETmCHV7mp17boOOLIifJKIFYFa0Pr+fGyqk=",
   "Source": "FoodApplication",
   "BasePath": "_content/FoodApplication",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "H:\\.net\\FoodApplication\\FoodApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FoodApplication.bundle.scp.css"
+    },
+    {
+      "Identity": "H:\\.net\\FoodApplication\\FoodApplication\\wwwroot\\css\\jquery-ui.min.css",
+      "SourceId": "FoodApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\.net\\FoodApplication\\FoodApplication\\wwwroot\\",
+      "BasePath": "_content/FoodApplication",
+      "RelativePath": "css/jquery-ui.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\jquery-ui.min.css"
     },
     {
       "Identity": "H:\\.net\\FoodApplication\\FoodApplication\\wwwroot\\css\\site.css",
@@ -186,6 +205,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\carousel\\pizza.jpg"
+    },
+    {
+      "Identity": "H:\\.net\\FoodApplication\\FoodApplication\\wwwroot\\js\\jquery-ui.min.js",
+      "SourceId": "FoodApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\.net\\FoodApplication\\FoodApplication\\wwwroot\\",
+      "BasePath": "_content/FoodApplication",
+      "RelativePath": "js/jquery-ui.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery-ui.min.js"
     },
     {
       "Identity": "H:\\.net\\FoodApplication\\FoodApplication\\wwwroot\\js\\site.js",
